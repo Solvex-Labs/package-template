@@ -12,4 +12,5 @@
         "name": "Name Surname",
         "url": "https://google.com"
     }
+  "iconPath": "Resources/packageIcon.png"
 }
