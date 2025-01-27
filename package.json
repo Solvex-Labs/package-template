@@ -11,6 +11,6 @@
         "email": "exemple@splashgames.app",
         "name": "Name Surname",
         "url": "https://google.com"
-    }
+    },
   "iconPath": "Resources/packageIcon.png"
 }
