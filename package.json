@@ -1,5 +1,5 @@
 {
-  "name": "com.splashgames.template",
+  "name": "com.solvexlabs.template",
   "version": "1.0.0",
   "displayName": "Template",
   "description": "Template description",
@@ -8,9 +8,9 @@
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": { },
   "author": {
-        "email": "exemple@splashgames.app",
-        "name": "Name Surname",
-        "url": "https://google.com"
+        "email": "artem.svobodin01@gmail.com",
+        "name": "Solvex Labs",
+        "url": "https://github.com/Solvex-Labs"
     },
   "iconPath": "Resources/packageIcon.png"
 }
