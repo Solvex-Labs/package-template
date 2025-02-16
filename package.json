@@ -1,8 +1,8 @@
 {
-  "name": "com.solvexlabs.template",
+  "name": "com.solvexlabs.package",
   "version": "1.0.0",
-  "displayName": "Template",
-  "description": "Template description",
+  "displayName": "Package Template",
+  "description": "Template for creating packages",
   "unity": "2022.3",
   "documentationUrl": "https://example.com/",
   "licensesUrl": "https://example.com/licensing.html",
